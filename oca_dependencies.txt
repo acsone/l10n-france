@@ -2,7 +2,8 @@ bank-statement-import
 bank-payment
 partner-contact
 account-fiscal-rule
-community-data-files
+# https://github.com/OCA/community-data-files/pull/53
+community-data-files https://github.com/acsone/community-data-files 12.0-mig-l10n_eu_nace
 edi
 contract
 account-invoicing
